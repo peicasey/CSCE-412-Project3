@@ -69,6 +69,6 @@ All deliverables must provide a viable solution to the assigned problem. No atte
 
 This project is worth 100 points.
 
-**30%** - Documentation
-**20%** - Log and successful completion of load balancing 
-**50%** - Demonstration, code, and Git usage 
+- **30%** - Documentation
+- **20%** - Log and successful completion of load balancing 
+- **50%** - Demonstration, code, and Git usage 
