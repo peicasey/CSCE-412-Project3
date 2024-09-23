@@ -39,9 +39,9 @@ You will be able to:
 1. This is an individual project. You must turn in your own work.
 2. Collaboration for ideas between classmates is acceptable, but duplication of work is not.
 3. Use C++ to write this program.
-  - you must design the workflow and write the driver or main program on your own. 
-  -  you must design the functions of the methods and classes you need, including the inputs and output of each function.
-  - you can then (and only after the design is complete) use ChatGPT to write the individual functions. For example, using ChatGPT, say "write a function in C++ that will take a real number value as US currency and convert it to Singapore currency". Your driver program or other functions can call that AI-written function.
+    - you must design the workflow and write the driver or main program on your own. 
+    -  you must design the functions of the methods and classes you need, including the inputs and output of each function.
+    - you can then (and only after the design is complete) use ChatGPT to write the individual functions. For example, using ChatGPT, say "write a function in C++ that will take a real number value as US currency and convert it to Singapore currency". Your driver program or other functions can call that AI-written function.
 4. Your program will contain multiple .cpp  and .h files. The main program should set up the number of servers (user input), the time you want to run the load balancer (user input) and generate a full queue (usually servers * 100).
 5. You will need a web server class so you can create the number of web servers requested.
 6. You will need a request class (or struct) that holds a request.
@@ -64,8 +64,11 @@ All deliverables must provide a viable solution to the assigned problem. No atte
 - Demonstration of usability in your video.
 - Create a make file and zip it together with all your .cpp and .h files. No executables. Turn in that zip file.
 
+
+## Grading
+
 This project is worth 100 points.
 
-Documentation 30%
-Log and successful completion of load balancing 20%
-Demonstration, code, and Git usage 50%
+**30%** - Documentation
+**20%** - Log and successful completion of load balancing 
+**50%** - Demonstration, code, and Git usage 
