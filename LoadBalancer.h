@@ -1,5 +1,5 @@
-#ifndef LOADBALANCER_H
-#define LOADBALANCER_H
+#ifndef LOAD_BALANCER_H
+#define LOAD_BALANCER_H
 
 class LoadBalancer {
 public:
@@ -9,4 +9,4 @@ private:
     
 };
 
-#endif LOADBALANCER_H
+#endif LOAD_BALANCER_H

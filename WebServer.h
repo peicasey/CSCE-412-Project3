@@ -1,5 +1,5 @@
-#ifndef WEBSERVER_H
-#define WEBSERVER_H
+#ifndef WEB_SERVER_H
+#define WEB_SERVER_H
 
 class WebServer {
 public:
@@ -9,4 +9,4 @@ private:
     
 };
 
-#endif WEBSERVER_H
+#endif WEB_SERVER_H
